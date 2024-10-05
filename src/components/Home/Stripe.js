@@ -9,7 +9,7 @@ const popup = () => {
                       "<p>$30 – Per month to Sponsor a Child</p>" +
                       "<p>$100 – Sponsors a day's meal for the School</p>" +
                     "</div>" +
-                    "<div style='display:flex;justify-content:left;align-items:center; gap:24px;margin:6px 0'>" +
+                    "<div style='display:flex;justify-content:center;align-items:center; gap:24px;margin:6px 0'>" +
                       "<label for='any_amount' style='display: flex; align-items: center; gap: 4px;'>" +
                           "<input class='' type='radio' id='any_amount' name='amount_tpe' checked/> Any amount" +
                       "</label>" +
